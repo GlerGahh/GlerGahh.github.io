@@ -7,10 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JB3INq8n9is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```markdown
 Syntax highlighted code block
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JB3INq8n9is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Header 1
 ## Header 2
 ### Header 3
