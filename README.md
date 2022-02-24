@@ -1,7 +1,7 @@
 ## Welcome to GlerGahh's trash bin
 Owned by GlerGahh
-This website is for school only
 
+This website is for school only
 
 ### Trash lid
 
