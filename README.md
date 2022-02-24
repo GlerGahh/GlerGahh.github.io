@@ -6,7 +6,7 @@ This website is for school only
 ### Trash lid
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JB3INq8n9is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SIuF37EWaLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```markdown
 Syntax highlighted code block
 
