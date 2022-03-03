@@ -3,11 +3,13 @@ Owned by GlerGahh
 
 This website is for school only
 
-### Trash lid
+### Hall of Pichie Star
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SIuF37EWaLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```markdown
+![IMG_4225](https://user-images.githubusercontent.com/99946589/156506435-2ef6eb82-5096-4c60-9fd0-81af0bf86e52.JPG)
+
 Syntax highlighted code block
 
 # Header 1
