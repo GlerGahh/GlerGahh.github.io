@@ -10,6 +10,7 @@ This website is for school only
 ```markdown
 ![IMG_4225](https://user-images.githubusercontent.com/99946589/156506435-2ef6eb82-5096-4c60-9fd0-81af0bf86e52.JPG)
 
+
 Syntax highlighted code block
 
 # Header 1
