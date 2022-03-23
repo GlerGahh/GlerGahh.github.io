@@ -1,8 +1,7 @@
-## Welcome to GlerGahh's trash bin
+### Welcome to GlerGahh's trash bin
 Owned by GlerGahh
 
-This website is for school only
-
+Showcasing the wonderfull dog Pichie Star
 ### Hall of Pichie Star
 
 
@@ -17,7 +16,7 @@ This website is for school only
 ![IMG_4379](https://user-images.githubusercontent.com/99946589/159622555-21832a26-83ed-48fa-bfb5-3c2cb9600a61.JPG)
 ![IMG_4095](https://user-images.githubusercontent.com/99946589/159622574-6e58a1fd-4980-49cf-9d96-44c52cde737f.JPG)
 
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
